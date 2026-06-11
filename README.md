@@ -30,6 +30,8 @@ Once installed, your AI agent can:
 - 🚀 Deploy HTML apps to Miaoda (飞书妙搭)
 - ...and 16 more capabilities
 
+👉 **[See real-world usage examples →](docs/USAGE.md)**
+
 ## Architecture
 
 ```mermaid
