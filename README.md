@@ -217,3 +217,23 @@ MIT © 2026 xujie8867 (许海龙)
 <p align="center">
   <sub>Built with ❤️ for the AI Agent + Enterprise ecosystem</sub>
 </p>
+
+## Documentation
+
+- [FAQ](docs/FAQ.md) — Frequently asked questions
+- [Contributing Guide](CONTRIBUTING.md) — How to contribute
+- [Roadmap](ROADMAP.md) — Planned features and milestones
+- [Changelog](CHANGELOG.md) — Release history
+
+## One-Line Install
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/xujie8867/claude-code-lark-bridge/master/scripts/install.sh | bash
+```
+
+## Validation
+
+```bash
+./scripts/validate-skills.sh
+# Expected: 26 skills | 0 errors | 0 warnings
+```
