@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
   <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey" alt="Cross-platform">
   <img src="https://img.shields.io/badge/lark--cli-v1.0.44-brightgreen" alt="lark-cli v1.0.44">
+  <a href="https://github.com/xujie8867/claude-code-lark-bridge/actions/workflows/ci.yml"><img src="https://github.com/xujie8867/claude-code-lark-bridge/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/xujie8867/claude-code-lark-bridge/releases"><img src="https://img.shields.io/github/v/release/xujie8867/claude-code-lark-bridge" alt="Release"></a>
 </p>
 
 ---
